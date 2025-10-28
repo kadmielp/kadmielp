@@ -1,4 +1,4 @@
-# Kadmiel Pereira (kadmielp)
+# Kadmiel Pereira
 Biotechnology graduate with a Master's in Environmental Engineering. Passionate about automation. Programming enthusiast.
 
 ## 🧠 Generative AI

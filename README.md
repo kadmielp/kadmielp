@@ -6,9 +6,3 @@ I started using GitHub just to try it out, and it became a place to store ideas 
 
 ## 🛠️ Tools
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) [![Excalidraw](https://img.shields.io/badge/-Excalidraw-6965DB?logo=excalidraw&logoColor=white)](https://excalidraw.com/) [![draw.io](https://img.shields.io/badge/-draw.io-FF6C37?logo=diagrams.net&logoColor=white)](https://app.diagrams.net/) [![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white)](https://www.cursor.so/) [![Claude](https://img.shields.io/badge/-Claude-D97706?logo=anthropic&logoColor=white)](https://claude.ai/)
-
-## 📈 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=kadmielp&short_numbers=true&background=0E1117&fire=EB5454&currStreakNum=EBEBEB&sideNums=EBEBEB&dates=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB)](https://git.io/streak-stats)
-
-## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=kadmielp&theme=onedark)](https://github.com/kadmielp/github-profile-trophy)

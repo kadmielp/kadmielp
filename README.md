@@ -2,7 +2,7 @@
 
 ### 🤖 AI/Automation Specialist | 📊 IT Project Manager | 🌍 Environmental Engineer
 
-Welcome! I'm a Project Manager with a journey from Environmental Engineering and Bioinformatics to AI-powered process automation. I specialize in using GenAI and low-code platforms to turn complex business challenges into elegant, automated solutions. I strongly believe that solutions are meant to be practical, efficient, and always focused on empowering people.
+Welcome! I'm a Project Manager with a journey from Environmental Engineering and Bioinformatics to AI-powered process automation. I specialize in using GenAI and low-code platforms to turn complex business challenges into elegant, automated processes. I strongly believe that solutions are meant to be practical, efficient, and always focused on empowering people.
 
 ## 💡 Next Steps & Interests
 

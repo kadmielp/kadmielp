@@ -18,7 +18,7 @@ Project Manager with a background spanning Environmental Engineering, Bioinforma
 - Open-source AI/automation tools  
 - Side: gaming, server admin, self-hosting
 
-## 🧠 Generative AI & Tools
+## 🧰 Toolbox
 
 - **AI Platforms**  
   ![Gemini](https://img.shields.io/badge/Google-Gemini-blueviolet?logo=googlegemini&logoColor=white)

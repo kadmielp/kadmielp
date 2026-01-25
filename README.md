@@ -5,7 +5,7 @@ Project Manager with a background spanning Environmental Engineering, Bioinforma
 ## 🚀 Professional Impact & Achievements
 
 - **GenAI implementation**: Led global focus groups and drove adoption of GenAI tools across teams.
-- **Process automation**: Built end‑to‑end automations with JavaScript, Python, low‑code and LLMs.
+- **Process automation**: Built end‑to‑end automations with Python, low‑code and LLMs.
 - **Cross‑functional leadership**: Aligned Product, Engineering and Tech on priorities and roadmaps.
 - **Data insights**: Delivered analytics using SQL and Metabase to guide product and process decisions.
 - **Product delivery**: Ran UAT and helped ship global user‑facing tools.

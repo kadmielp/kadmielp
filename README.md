@@ -65,7 +65,7 @@ Project Manager with a background spanning Environmental Engineering, Bioinforma
 |---------|---------|
 | **LinkedIn** | [linkedin.com/in/kadmielpereira](https://www.linkedin.com/in/kadmielpereira/) |
 | **Location** | Budapest, Hungary 🇭🇺 |
-| **Open to** | Remote opportunities, AI/ML projects, Process automation consulting |
+| **Open to** | Hybrid/Remote opportunities, Project Management, Process automation/AI implementation consulting |
 
 ---
 *"Programming began as a way to automate repetitive work. It quickly turned into a way to experiment, learn, and build things that make life easier for others."*

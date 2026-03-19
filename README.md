@@ -1,6 +1,6 @@
 # Hey 👋🏻 I'm Kadmiel!
 
-Project Manager with a background spanning Environmental Engineering, Bioinformatics, and AI-driven process automation. I use GenAI and low-code platforms to turn complex business problems into practical, efficient workflows that empower people. Outside of work I tinker with self‑hosted servers and build gaming side projects.
+I use GenAI and low-code platforms to turn complex business problems into practical, efficient workflows that empower people. Outside of work I tinker with self‑hosted servers and build gaming side projects.
 
 ## 🚀 Professional Impact & Achievements
 

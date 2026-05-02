@@ -65,3 +65,5 @@ I use GenAI and low-code platforms to turn complex business problems into practi
 |---------|---------|
 | **LinkedIn** | [linkedin.com/in/kadmielpereira](https://www.linkedin.com/in/kadmielpereira/) |
 | **Location** | Budapest, Hungary 🇭🇺 |
+
+---

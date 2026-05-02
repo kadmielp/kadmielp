@@ -65,6 +65,3 @@ I use GenAI and low-code platforms to turn complex business problems into practi
 |---------|---------|
 | **LinkedIn** | [linkedin.com/in/kadmielpereira](https://www.linkedin.com/in/kadmielpereira/) |
 | **Location** | Budapest, Hungary 🇭🇺 |
-
----
-*"Programming began as a way to automate repetitive work. It quickly turned into a way to experiment, learn, and build things that make life easier for others."*

@@ -1,7 +1,5 @@
 # Hi, I'm Kadmiel 👋
 
-![A koi drawn from my GitHub activity](koi/koi.gif)
-
 I work across project delivery, process improvement, and AI adoption. I enjoy figuring out where work gets complicated and finding practical ways to make it easier.
 
 My experience includes helping teams adopt GenAI, automating workflows, using data to guide decisions, and bringing business and technical teams together to deliver useful tools.
@@ -70,3 +68,5 @@ Tools I use at work and explore through personal projects.
 | **Location** | Budapest, Hungary 🇭🇺 |
 
 ---
+
+![A koi drawn from my GitHub activity](koi/koi.gif)

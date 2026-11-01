@@ -69,4 +69,6 @@ Tools I use at work and explore through personal projects.
 
 ---
 
-![A koi drawn from my GitHub activity](koi/koi.gif)
+<p align="center">
+  <img src="koi/koi.gif" alt="A koi drawn from my GitHub activity" />
+</p>

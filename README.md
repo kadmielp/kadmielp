@@ -1,8 +1,6 @@
 # Hi, I'm Kadmiel 👋
 
-I work across project delivery, process improvement, and AI adoption. I enjoy figuring out where work gets complicated and finding practical ways to make it easier.
-
-My experience includes helping teams adopt GenAI, automating workflows, using data to guide decisions, and bringing business and technical teams together to deliver useful tools.
+I have experience helping teams adopt generative AI, automate workflows, use data to guide decisions, and bridge business and technical teams. I focus on project delivery, process improvement, and finding practical ways to simplify complex work.
 
 ## What you'll find here
 
@@ -12,7 +10,7 @@ Personal projects and experiments with AI, automation, and self-hosting, alongsi
 
 I often understand a problem better once I try to build something around it. AI makes it easier to follow that curiosity, whether I'm exploring an automation, or a tool I wish existed.
 
-These projects also inform how I approach my work: asking better questions, understanding technical trade-offs, and thinking more carefully about the people who will use a solution. Some become useful tools. Others teach me something.
+These projects also help me to improve how I approach my work: asking better questions, understanding technical trade-offs, and thinking more carefully about the people who will use a solution. Some become useful tools. Others teach me something.
 
 ## 🧰 Toolbox
 
